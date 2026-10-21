@@ -1,0 +1,20 @@
+ФОТО КАЙДА СТОИТ / ФОТО ҚАЙДА ТҰРАДЫ
+Фото ауыстыру: жаңа фотоны дәл осындай атпен (.jpg) осы папкаға салыңыз — кодты өзгертудің қажеті жоқ.
+Размер любой: сайт сам обрезает фото (object-fit: cover). Лучше горизонтальные 3:2 (например 1200x800).
+
+hero.jpg          - басты бет баннері (1600x900, горизонтал, текст жазылатын жері қараңғы болсын)
+academy.jpg       - академия (баннер + карточка): студенттер, ноутбук, класс
+shop.jpg          - дүкен (баннер + карточка): гаджеттер жиынтығы
+course-web.jpg    - Web курс (карточка + detail бет): код, монитор
+course-python.jpg - Python курс
+course-ux.jpg     - UI/UX курс: дизайн, эскиз
+course-react.jpg  - React курс
+course-data.jpg   - Деректер талдауы курсы: графиктер
+phone.jpg         - Phone X смартфон (каталог + detail бет)
+phone-lite.jpg    - Phone Lite смартфон
+watch.jpg         - Watch S смарт-сағат
+watch-fit.jpg     - Watch Fit фитнес-сағат
+laptop.jpg        - Laptop Pro ноутбук
+buds.jpg          - Buds Air наушник
+
+Бесплатные фото: unsplash.com, pexels.com (ищите: "coding", "students laptop", "smartphone", "smartwatch", "laptop", "earbuds").
